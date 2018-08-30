@@ -24,11 +24,16 @@
 
     </head>
     <body>
+        <?php
+        include 'Vista/Galeria.php';
+        ?>
         <div>
 
             <h1 class="title"  style="text-align:center;">
-                Bienvenido a SERVIS
+                Bienvenido a SERVIS Testing1 e.e
             </h1>
+
+            o no?
 
             <table  style="margin: 0 auto;">
             </table>
